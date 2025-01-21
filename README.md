@@ -6,8 +6,6 @@
 <a href="www.linkedin.com/in/alec-biddinger-4373502ab">
   <img alt="LinkedIn" title="LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
- <a href="">
-         <img alt="followers" title="Follow me on Github" src=""/></a>
 
 ## 👋 About Me
 
