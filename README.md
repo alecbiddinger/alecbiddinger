@@ -11,6 +11,8 @@
 
 ## 👋 About Me
 
+![profile view count](https://komarev.com/ghpvc/?username=alecbiddinger&abbreviated=true&style=plastic)
+
 My name is Alec, and I am studying Cybersecurity Management at Northwood University. Here are some things about me!
 
 - 📚 BBA Dec '25 - Cybersecurity Management
