@@ -1,11 +1,13 @@
 # Alec Biddinger
 
 <a href="https://www.youtube.com/@alecbiddinger6427">
-  <img alt="YouTube" title="YouTube" alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+  <img alt="YouTube" title="Check Out My YouTube Channel" alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
 <a href="https://www.linkedin.com/in/alec-biddinger-4373502ab/">
-  <img alt="LinkedIn" title="LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img alt="LinkedIn" title="See More About My Professional Experiences at LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+<a href="https://northwood.joinhandshake.com/profiles/am4yek">
+  <img alt="Handshake" title="See More About My College Courses at Handshake" alt="Handshake" src="https://img.shields.io/badge/Handshake-D3FB52.svg?style=for-the-badge&logo=Handshake&logoColor=black"/></a>
 
 ## 👋 About Me
 
