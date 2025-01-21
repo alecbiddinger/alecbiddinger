@@ -3,7 +3,7 @@
 <a href="https://www.youtube.com/@alecbiddinger6427">
   <img alt="YouTube" title="YouTube" alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
-<a href="www.linkedin.com/in/alec-biddinger-4373502ab">
+<a href="https://www.linkedin.com/in/alec-biddinger-4373502ab/">
   <img alt="LinkedIn" title="LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
