@@ -1,7 +1,11 @@
-# About Me
+# Alec Biddinger
 
-- 🔭 I'm working on a bachelor of business administration in cybersecurity management.
+## About Me 👋
+
+My name is Alec and I am studying Cybersecurity Management at Northwood University. Here is a list of some things about me!
+
+- 📚 BBA Dec '25 - Cybersecurity Management
 - 🌱 I'm currently learning cybersecurity principles, database design and implementation, operating systems, networks, and communication infrastructure.
-- ⌚ I'm looking for input on my current Python projects.
-- 📫 How to reach me: alecbiddinger@gmail.com
+- ⌚ I'm working on developing my skills in Python.
+- 📫 If you would like to reach me, you can email me at: alecbiddinger@gmail.com
   
